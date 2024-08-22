@@ -1,6 +1,9 @@
-Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+_Boas vindas ao meu perfil 💙💙_
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+**Meu nome è: Aghata Vitòria** 
+
+**Estou estudando na Alura**
+
+**Estou me desenvolvendo na linguagem JavaScript**
+
+**Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos**
